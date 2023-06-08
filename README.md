@@ -1,56 +1,56 @@
-## 瑞吉外卖功能清单
+## Easy Meal Feature List
 
-### 后台系统
+### backend system
 
-#### 员工管理:
+#### Employee Management:
 
-- 登录、退出
-- 新增
-- 修改
-- 列表
-- 禁用、启用
+- login, logout
+- add
+- Revise
+- list
+- disable, enable
 
-#### 分类管理:
+#### Category management:
 
-- 新增
-- 修改
-- 列表
-- 删除
+- add
+- Revise
+- list
+- delete
 
-#### 菜品管理:
+#### Dishes management:
 
-- 新增
-- 修改
-- 列表
-- 删除
-- 停售、启售
+- add
+- Revise
+- list
+- delete
+- Stop selling, start selling
 
-#### 套餐管理:
+#### Package Management:
 
-- 新增
-- 修改
-- 列表
-- 删除
-- 停售、启售
+- add
+- Revise
+- list
+- delete
+- Stop selling, start selling
 
 
 
-#### 订单明细
+#### Order Details
 
-- 列表
-- 状态操作
+- list
+- state operations
 
-### 移动端应用
+### Mobile App
 
-- 手机号登录
-- 个人中心
-- 地址管理
-- 历史订单
-- 浏览菜品、套餐
-- 购物车
-- 添加购物车
-- 清空购物车
-- 下单
+- Mobile phone number login
+- Personal center
+- Address management
+- History orders
+- Browse dishes and packages
+- shopping cart
+- add to cart
+- Empty cart
+- place an order
 
 数据库表在 resource表下
 
